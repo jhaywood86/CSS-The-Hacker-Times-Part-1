@@ -21,6 +21,17 @@ a {
 li {
     display: inline-block;
 }
+
+.newspaper-container {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 700px;
+    border-radius: 1em;
+    box-shadow: inset;
+    padding: 2em;
+}
 body {
     background-color: lightgray;
+
 }
+
