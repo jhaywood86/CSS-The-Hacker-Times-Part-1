@@ -21,3 +21,6 @@ a {
 li {
     display: inline-block;
 }
+body {
+    background-color: lightgray;
+}
